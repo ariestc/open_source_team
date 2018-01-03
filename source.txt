@@ -1,4 +1,8 @@
 http://www.cnblogs.com/oc-bowen/p/6117005.html
 http://mobdevgroup.com/platform/ios/project
 https://www.zhihu.com/question/23804819
+https://www.cocoacontrols.com/controls?language=1-objective-c
+http://www.mopapp.com/
+http://cocoalit.com/index?cat=60
+http://www.ioscodehub.com/
 
